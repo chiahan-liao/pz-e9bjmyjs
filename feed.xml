@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+ <channel>
+  <title>All-In 台灣中文濃縮版（私人）</title>
+  <description>All-In、Pivot、歷史就是這樣 台灣繁中濃縮版（私人收聽，請勿公開分享）。</description>
+  <language>zh-TW</language>
+  <itunes:block>Yes</itunes:block>
+  <itunes:explicit>false</itunes:explicit>
+  <link>https://chiahan-liao.github.io/pz-e9bjmyjs/</link>
+  <itunes:author>private</itunes:author>
+  <lastBuildDate>Thu, 19 Nov 2026 09:19:52 +0000</lastBuildDate>
+
+ </channel>
+</rss>
