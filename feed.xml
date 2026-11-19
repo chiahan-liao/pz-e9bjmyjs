@@ -8,7 +8,14 @@
   <itunes:explicit>false</itunes:explicit>
   <link>https://chiahan-liao.github.io/pz-e9bjmyjs/</link>
   <itunes:author>private</itunes:author>
-  <lastBuildDate>Thu, 19 Nov 2026 09:19:52 +0000</lastBuildDate>
-
+  <lastBuildDate>Thu, 19 Nov 2026 09:21:02 +0000</lastBuildDate>
+  <item>
+   <title>測試（會刪）</title>
+   <guid isPermaLink="false">zh-test000000</guid>
+   <pubDate>Thu, 19 Nov 2026 09:00:00 +0000</pubDate>
+   <enclosure url="https://chiahan-liao.github.io/pz-e9bjmyjs/ep/zz-test.mp3" length="20000" type="audio/mpeg"/>
+   <itunes:duration>0:10</itunes:duration>
+   <description>test</description>
+  </item>
  </channel>
 </rss>
